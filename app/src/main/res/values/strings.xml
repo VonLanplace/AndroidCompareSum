@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidNumCompare</string>
+    <string name="n1">N1</string>
+    <string name="n2">N2</string>
+    <string name="in_n1">n1</string>
+    <string name="in_n2">n2</string>
+    <string name="greater">></string>
+    <string name="sum">Σ</string>
+    <string name="title">\?N1>N2 ; N1+N2</string>
+    <string name="empty_num1">num1 = Nan</string>
+    <string name="empty_num2">num2 = Nan</string>
+    <string name="equal_nums">N1 = N2</string>
+</resources>
