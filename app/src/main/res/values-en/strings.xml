@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidNumCompare</string>
+    <string name="n1">First number</string>
+    <string name="n2">Second number</string>
+    <string name="in_n1">Insert first number</string>
+    <string name="in_n2">Insert second number</string>
+    <string name="greater">Greater</string>
+    <string name="sum">ΣOdds</string>
+    <string name="title">Comparator</string>
+    <string name="empty_num1">Insert a first number!</string>
+    <string name="empty_num2">Insert a second number!</string>
+    <string name="equal_nums">First = Second</string>
+</resources>

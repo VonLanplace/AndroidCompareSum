@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidNumCompare</string>
+    <string name="n1">Primeiro número</string>
+    <string name="n2">Segundo múmero</string>
+    <string name="in_n1">Insira o primeiro número</string>
+    <string name="in_n2">Insira o segundo número</string>
+    <string name="greater">Maior</string>
+    <string name="sum">ΣImpares</string>
+    <string name="title">Comparador</string>
+    <string name="empty_num1">Insira um primeiro número</string>
+    <string name="empty_num2">Insira um segundo número</string>
+    <string name="equal_nums">Primeiro = Segundo</string>
+</resources>
